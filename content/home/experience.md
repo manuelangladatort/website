@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.hu-berlin.de/'
     company_logo: 'hu_logo'
     location: Berlin, Germany
-    date_start: '2019.10.01'
-    date_end: '2020.03.31'
+    date_start: '2019'
+    date_end: '2020'
     # description: 
 
   - title: Research and Science Consultant
@@ -54,8 +54,8 @@ experience:
     company_url: 'https://https://www.tu.berlin/'
     company_logo: 'tub_logo'
     location: Berlin, Germany
-    date_start: '2017.09.01'
-    date_end: '2020.09.30'
+    date_start: '2017'
+    date_end: '2020'
     # description: ''
 
 design:
