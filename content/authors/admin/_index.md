@@ -6,7 +6,7 @@ title: Manuel Anglada Tort
 superuser: true
 
 # Role/position/tagline
-role: Postdoc researcher
+role: Postdoc Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
