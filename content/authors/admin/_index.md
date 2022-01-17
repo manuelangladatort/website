@@ -10,11 +10,11 @@ role: Postdoc Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Max Planck Institute for Empirical Aesthetics
-  url: https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html
+- name: Computational Auditory Perception Group, Max Planck Institute for Empirical Aesthetics
+  url: 'https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in how people experience the auditory world and the impact of these experienes on human behavior and culture. To explore this, my research combines methods from different disciplines, including massive online perceptual experiments, iterated learning paradigms in rhythm and singing modalities, cross-cultural research, and network science.
+bio: I am interested in how humans experience the auditory world and the way in which such representations impact human behaviour and culture. To explore this, my research combines methods from different disciplines using massive online experiments, including high-resolution perceptual paradigms, cultural transmission chains in rhythm and singing modalities, cross-cultural research, and network science.
 
 # Interests to show in About widget
 interests:
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv-square
+  icon_pack: ai
+  link: uploads/Anglada-Tort_CV_January2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
