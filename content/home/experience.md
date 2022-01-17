@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.hu-berlin.de/'
     company_logo: 'hu_logo'
     location: Berlin, Germany
-    date_start: '2019'
-    date_end: '2020'
+    date_start: '2019-10-01'
+    date_end: '2020-03-32'
     # description: 
 
   - title: Research and Science Consultant
@@ -45,17 +45,17 @@ experience:
     company_url: 'https://www.soundout.com/'
     company_logo: 'soundout_logo'
     location: London, UK
-    date_start: '2018'
-    date_end: '2020'
+    date_start: '2018-02-01'
+    date_end: '2020-04-30'
     # description: 
     
   - title: Doctoral Candidate
     company: Audio Communication Group | Technische Universität Berlin
-    company_url: 'https://https://www.tu.berlin/'
+    company_url: 'https://www.tu.berlin/'
     company_logo: 'tub_logo'
     location: Berlin, Germany
-    date_start: '2017'
-    date_end: '2020'
+    date_start: '2017-09-01'
+    date_end: '2020-06-30'
     # description: ''
 
 design:
