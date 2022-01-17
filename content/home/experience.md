@@ -37,7 +37,7 @@ experience:
     company_logo: 'hu_logo'
     location: Berlin, Germany
     date_start: '2019.10.01'
-    date_end: '2012.03.21'
+    date_end: '2020.03.31'
     # description: 
 
   - title: Research and Science Consultant
