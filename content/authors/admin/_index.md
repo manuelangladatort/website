@@ -11,16 +11,16 @@ role: Postdoc Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Max Planck Institute for Empirical Aesthetics
-  url: https://www.aesthetics.mpg.de/
+  url: https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html), at Max Planck Institute for Empirical Aesthetics (Germany). I am interested in how people experience the auditory world and the impact of such experienes on human behavior and culture. To explore this, my research combines methods from different disciplines, including massive online perceptual experiments, iterated learning paradigms in rhythm and singing modalities, cross-cultural research, and network science.
+bio: I am interested in how people experience the auditory world and the impact of these experienes on human behavior and culture. To explore this, my research combines methods from different disciplines, including massive online perceptual experiments, iterated learning paradigms in rhythm and singing modalities, cross-cultural research, and network science.
 
 # Interests to show in About widget
 interests:
-- Cultural Evolution
 - Empirical Aesthetics
-- Music cognition and Behaviour
+- Cultural Evolution
+- Music Cognition and Behaviour
 - Massive Online Experiments
 
 # Education to show in About widget

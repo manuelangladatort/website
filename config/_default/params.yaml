@@ -7,7 +7,7 @@
 
 theme: Earth # minimal
 day_night: false
-font: ''
+font: 'minimal'
 font_size: s
 
 # SEO
