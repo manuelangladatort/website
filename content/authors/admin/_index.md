@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv-square
   icon_pack: ai
-  link: uploads/Anglada-Tort_CV_January2022.pdf
+  link: uploads/Anglada-Tort_CV_Jan2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html), at Max Planck Institute for Empirical Aesthetics (Germany). I am interested in how people experience the auditory world and the impact of such experienes on human behavior and culture. To explore this, my research combines methods from different disciplines, including massive online perceptual experiments, iterated learning paradigms in rhythm and singing modalities, cross-cultural research, and network science.
+I am interested in how humans experience the auditory world and the way in which such representations impact human behaviour and culture. To explore this, my research combines methods from different disciplines using massive online experiments, including high-resolution perceptual paradigms, cultural transmission chains in rhythm and singing modalities, cross-cultural research, and network science.
