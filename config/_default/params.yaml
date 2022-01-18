@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal # minimal
+theme: red-minimal # minimal
 day_night: false
 font: 'minimal'
 font_size: s
