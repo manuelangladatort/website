@@ -26,7 +26,7 @@ abstract: >
 summary: ""
 
 tags:
-categories: [empirical aesthetics, bibliometrics]
+categories: [empirical aesthetics]
 featured: true
 
 # Custom links (optional).
