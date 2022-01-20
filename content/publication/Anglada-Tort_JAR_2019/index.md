@@ -3,7 +3,7 @@
 
 title: "The Impact of Source Effects on the Evaluation of Music for Advertising"
 authors: [Manuel Anglada-Tort, Steve Keller, Jochen Steffens, and Daniel Müllensiefen]
-date: "2019-01-25T00:00:00Z"
+date: "2019-10-01T00:00:00Z"
 doi: "https://doi.org/10.2501/JAR-2020-016"
 
 # Schedule page publish date (NOT publication's date).

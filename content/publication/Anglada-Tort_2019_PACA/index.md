@@ -3,7 +3,7 @@
 
 title: "Names and titles matter: The impact of linguistic fluency and the affect heuristic on aesthetic and value judgements of music"
 authors: [Manuel Anglada-Tort, Jochen Steffens, and Daniel Müllensiefen]
-date: "2019-10-23T00:00:00Z"
+date: "2019-01-23T00:00:00Z"
 doi: "https://doi.org/10.1037/aca0000172"
 
 # Schedule page publish date (NOT publication's date).
