@@ -3,7 +3,7 @@
 
 title: "What counts as Aesthetics in Science? A Bibliometric Analysis and Visualization of the Scientific Literature from 1970 to 2018"
 authors: [Manuel Anglada-Tort and Martin Skov]
-date: 2021-01-04T14:18:51+01:00
+date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1037/aca0000350"
 
 # Schedule page publish date (NOT publication's date).
@@ -25,9 +25,9 @@ abstract: >
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [empirical aesthetics, bibliometrics]
 categories: [empirical aesthetics, bibliometrics]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -68,3 +68,13 @@ projects: [empirical aesthetics]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+

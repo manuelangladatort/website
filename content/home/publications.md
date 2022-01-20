@@ -12,7 +12,7 @@ active: true
 weight: 90
 
 title: Publications
-subtitle: 'Journal Articles, Conference Papers, Software'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -38,10 +38,9 @@ design:
   #   4 = Citation (publication only)
   view: 2
 
-## Move this below the `---` to display filter
-# {{% callout note %}}
-# [Filter my publications](./publication/).
-# {{% /callout %}}
 
 ---
-
+# Move this below the `---` to display filter
+ {{% callout note %}}
+ [Filter my publications](./publication/).
+ {{% /callout %}}
