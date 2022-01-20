@@ -12,7 +12,7 @@ active: true
 weight: 80
 
 title: Featured Research
-subtitle: "Latest publications"
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
