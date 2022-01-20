@@ -7,7 +7,7 @@ date: "2019-10-23T00:00:00Z"
 doi: "https://doi.org/10.1037/aca0000172"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-04-07T14:18:51+01:00
+publishDate: 2019-01-07T14:18:51+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
