@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: 'Tale' # minimal vs earth
+theme: 'coder-portfolio' # minimal vs earth
 day_night: false
 font: ''
 font_size: s
