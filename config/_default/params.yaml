@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal # minimal vs earth
+theme: coder-portfolio # minimal vs earth
 day_night: false
-font: 'minimal'
+font: ''
 font_size: s
 
 # SEO
