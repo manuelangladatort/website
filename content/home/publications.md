@@ -12,7 +12,7 @@ active: true
 weight: 90
 
 title: Publications
-subtitle: ''
+subtitle: 'Selected journal articles'
 
 content:
   # Page type to display. E.g. post, talk, publication...

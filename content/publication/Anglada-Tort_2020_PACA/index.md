@@ -26,7 +26,7 @@ abstract: >
 summary: ""
 
 tags:
-categories: [empirical aesthetics]
+categories: 
 featured: true
 
 # Custom links (optional).
@@ -38,8 +38,8 @@ featured: true
 #   icon: twitter
 
 url_pdf:
-url_code: 
-url_dataset: https://github.com/manuelangladatort/aesthetics-bibliometric-data
+url_code: https://github.com/manuelangladatort/aesthetics-bibliometric-data
+url_dataset: https://doi.org/10.5281/zenodo.3555589
 url_poster:
 url_project:
 url_slides:
@@ -68,5 +68,5 @@ projects: [empirical aesthetics]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Datasets supporitng this study available [here](https://github.com/manuelangladatort/aesthetics-bibliometric-data).
+Analysis code and data supporitng this study available [here](https://github.com/manuelangladatort/aesthetics-bibliometric-data).
 

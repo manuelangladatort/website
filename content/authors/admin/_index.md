@@ -22,6 +22,7 @@ interests:
 - Cultural Evolution
 - Music Cognition and Behaviour
 - Massive Online Experiments
+- Sonic testing and audiobranding
 
 # Education to show in About widget
 education:

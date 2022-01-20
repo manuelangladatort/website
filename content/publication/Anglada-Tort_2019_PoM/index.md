@@ -26,7 +26,7 @@ abstract: >
 summary: ""
 
 tags:
-categories: [empirical aesthetics]
+categories: 
 featured: false
 
 # Custom links (optional).
@@ -38,8 +38,8 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: 
-url_dataset: https://github.com/manuelangladatort/popmusic-lyrics
+url_code: https://github.com/manuelangladatort/popmusic-lyrics
+url_dataset: 
 url_poster:
 url_project:
 url_slides:
@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: Popular music lyrics have become longer but simpler and more repetitive over time.
+  caption:
   focal_point: ""
   preview_only: false
 
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [empirical aesthetics]
+projects: [music cognition and behaviour]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
