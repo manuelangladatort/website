@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Visualizing Music Psychology: A Bibliometric Analysis of Psychology of Music, Music Perception, and Musicae Scientiae from 1973 to 2017"
+title: "Visualizing Music Psychology: A Bibliometric Analysis from 1973 to 2017"
 authors: [Manuel Anglada-Tort and Katie Rose M. Sanfilippo]
 date: "2019-01-25T00:00:00Z"
 doi: "https://doi.org/10.1177/2059204318811786"

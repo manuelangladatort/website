@@ -3,7 +3,7 @@
 
 title: "The Repeated Recording Illusion: The Effects of Extrinsic and Individual Difference Factors on Musical Judgments"
 authors: [Manuel Anglada-Tort and Daniel Müllensiefen]
-date: "2020-09-01T00:00:00Z"
+date: "2017-09-01T00:00:00Z"
 doi: "https://doi.org/10.1525/mp.2017.35.1.94"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ summary: ""
 
 tags:
 categories: 
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

@@ -26,7 +26,7 @@ abstract: >
 summary: ""
 
 tags:
-categories: [empirical aesthetics]
+categories:
 featured: false
 
 # Custom links (optional).
