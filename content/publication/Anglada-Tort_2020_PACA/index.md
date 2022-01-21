@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "What counts as Aesthetics in Science? A Bibliometric Analysis and Visualization of the Scientific Literature from 1970 to 2018"
+title: "What counts as aesthetics in science? A bibliometric analysis and visualization of the scientific literature from 1970 to 2018"
 authors: [Manuel Anglada-Tort and Martin Skov]
 date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1037/aca0000350"
@@ -23,7 +23,7 @@ abstract: >
   Many scientific disciplines give rise to research published under the moniker of aesthetics. For instance, both psychology and neuroscience have highly active subfields focused on aesthetics research, known as empirical aesthetics and neuroaesthetics. However, it remains unclear what aesthetics is about, and, consequently, if aesthetics research pursued by different scientific disciplines addresses common problems. It is therefore difficult to assess how well aesthetics is doing as a scientific enterprise, identify and compare its main subfields, and quantify its productivity and developments. To give an unbiased account of what counts as aesthetics across scientific disciplines, we conducted a bibliometric analysis of every publication found in Web of Science tagged as aesthetics. Spanning 1970 to 2018, the retrieved literature comprised a total of 27,159 papers, 45,832 authors, and 123 countries. Visualization and bibliometric techniques were used to investigate the main research trends and subfields (see Figure 1), growth of publications, citation analysis, and country productivity and collaborations. With a total growth rate of 10.2%, there was a clear increase in aesthetics research over time. The retrieved documents received a total of 217,93 citations, with a mean of 8.02 citations per document (SD= 25.7). Both a cluster analysis of the data, and a comparative analysis a posteriori, revealed that the aesthetics literature clusters into distinct research areas that differ significantly in their object of interest, research productivity and impact. This finding suggests that aesthetics is better thought of as a confederate of research traditions than a whole unified by common problems and research strategies. 
 
 # Summary. An optional shortened abstract.
-summary: "Using bibliometric and data visualization techniques, we study what counts as _aesthetics_ across scientific disciplines spanning 1970 to 2018. The analyzed literature comprises a total of 27,159 papers, 45,832 authors, and 123 countries."
+summary: "Using bibliometric and data visualization techniques, we study what counts as _aesthetics_ across scientific disciplines spanning 1970 to 2018. The analyzed literature comprises a total of 27,159 papers, 45,832 authors, and 123 countries"
 
 tags:
 categories: 
