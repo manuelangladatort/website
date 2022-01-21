@@ -23,7 +23,7 @@ abstract: >
   The repeated recording illusion refers to the phenomenon in which listeners believe to hear different musical stimuli while they are in fact identical. The present paper aims to construct an experimental paradigm to enable the systematic measurement of this phenomenon, investigating potentially related extrinsic and individual difference factors. Participants were told to listen to “different” musical performances of an original piece when in fact they were exposed to the same repeated recording. Each time, the recording was accompanied by a text suggesting a low, medium, or high prestige of the performer. Most participants (75%) believed that they had heard different musical performances. Participants with high levels of neuroticism and openness were significantly more likely to fall for the illusion. While the explicit information presented with the music influenced participants’ ratings significantly, the effect of repeated exposure was only significant in the more familiar music condition. These results suggest that like many other human judgments, evaluations of music also rely on cognitive biases and heuristics that do not depend on the stimuli themselves. The repeated recording illusion can constitute a useful paradigm for investigating nonmusical factors because it allows for the study of their effects while the music remains the same.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We investigated the repeated recording illusion, a phenomenon in which most listeners believe to hear different musical stimuli while they are in fact exposed to identical recordings."
 
 tags:
 categories: 

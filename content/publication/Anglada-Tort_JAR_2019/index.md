@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Impact of Source Effects on the Evaluation of Music for Advertising"
+title: "The Impact of Source Effects on the Evaluation of Music for Advertising: Differences between Advertising Professionals and Consumers"
 authors: [Manuel Anglada-Tort, Steve Keller, Jochen Steffens, and Daniel Müllensiefen]
 date: "2019-10-01T00:00:00Z"
 doi: "https://doi.org/10.2501/JAR-2020-016"
@@ -23,7 +23,7 @@ abstract: >
   When choosing music for advertisements, professionals are influenced by a large number of factors that could impair their judgment. This research examined source effects in the evaluation of advertising music by professionals and nonprofessionals. Results showed that advertising professionals gave significantly more favorable evaluations—higher in quality, authenticity, and expected cost—when they thought the music was sourced from performing artists compared with less credible and attractive sources. In contrast, nonprofessionals were not affected by source cues at all. The interplay between professionals’ and nonprofessionals’ perceptions of advertising music and the potential financial impact for brands are discussed.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This research examined _source effects_ in the evaluation of advertising music. Results showed that advertising professionals gave significantly more favorable evaluations — higher in quality, authenticity, and expected cost — when they thought the music was sourced from performing artists compared with less credible and attractive sources. In contrast, consumers were not affected by source cues at all."
 
 tags:
 categories: 
