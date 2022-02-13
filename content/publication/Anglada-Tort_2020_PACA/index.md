@@ -27,7 +27,7 @@ summary: "Using bibliometric and data visualization techniques, we study what co
 
 tags:
 categories: 
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

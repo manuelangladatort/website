@@ -14,14 +14,14 @@ organizations:
   url: 'https://www.aesthetics.mpg.de/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in how people experience the auditory world and the impact of their mental representations on human behaviour and culture. To explore this, my research combines methods from different disciplines with massive online experiments, including high-resolution perceptual paradigms, cultural transmission chains in rhythm and singing modalities, cross-cultural research, and network science.
+bio: I am a Postdoctoral Researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in how people experience the auditory world and the impact of their mental representations on human behaviour and culture. To explore this, my research combines methods from different disciplines with massive online experiments, including high-resolution perceptual paradigms, cultural transmission experiments in rhythm and singing modalities, cross-cultural research, and network science.
 
 # Interests to show in About widget
 interests:
-- Empirical Aesthetics
 - Cultural Evolution
 - Music Cognition and Behaviour
 - Massive Online Experiments
+- Empirical Aesthetics
 - Sonic testing and audiobranding
 
 # Education to show in About widget
