@@ -16,7 +16,7 @@ publishDate: 2022-02-11T14:18:51+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Psychology of Aesthetics, Creativity, and the Arts_"
+publication: "_Behavior Research Methods_"
 publication_short: ""
 
 abstract: >
@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: REPP uses audio to collect finger tapping on the surface of a laptop and a unique frequency range for each audio element in the recording. The resulting signal is analyzed using signal processing techniques to filter the response from the noisy recordings, computing several metrics, such as the number of detected tapping onsets, detected markers, and mean and SD of asynchrony.
+  caption: REPP: A robust cross-platform solution for online SMS experiments. (a) REPP uses a free-field recording approach that works efficiently using common laptops. (b) REPP comprises five main steps. (c) REPP uses a unique frequency range for each audio element in the recording. (d) Output of the performance analysis after the signal processing steps.
   focal_point: ""
   preview_only: false
 
