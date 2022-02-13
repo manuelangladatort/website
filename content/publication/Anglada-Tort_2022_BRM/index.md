@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: REPP: A robust cross-platform solution for online SMS experiments. (a) REPP uses a free-field recording approach that works efficiently using common laptops. (b) REPP comprises five main steps. (c) REPP uses a unique frequency range for each audio element in the recording. (d) Output of the performance analysis after the signal processing steps.
+  caption: REPP: A robust cross-platform solution for online SMS experiments.
   focal_point: ""
   preview_only: false
 
