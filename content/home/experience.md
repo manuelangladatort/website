@@ -68,16 +68,8 @@ experience:
     location: 'London, UK'
     date_start: '2017-09-01'
     date_end: '2020-06-30'
-    description: 'Focus on both the biological and cognitive aspects of musical behaviour.'
+    description: 'Focus on both the biological and cognitive aspects of musical behaviour'
 
-- title: BA in Psychology
-    company: 'Universitat Rovira i Virgili'
-    company_url: 'https://www.urv.cat/'
-    company_logo: 'urv_logo'
-    location: 'Tarragona, Spain'
-    date_start: '2017-09-01'
-    date_end: '2020-06-30'
-    description: 'Focus on both the biological and cognitive aspects of musical behaviour.'
 
 design:
   columns: '1'
