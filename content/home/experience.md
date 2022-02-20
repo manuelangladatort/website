@@ -41,7 +41,7 @@ experience:
     location: 'Berlin, Germany'
     date_start: '2019-10-01'
     date_end: '2020-03-31'
-    description: 'Taught research methods and statistics both at the BA and master levels'
+    description: 'Taught research methods and statistics (BA and master levels)'
 
   - title: Research and Science Consultant
     company: 'soundOUT - Sonic Testing for Sound Branding'
@@ -50,7 +50,7 @@ experience:
     location: 'London, UK'
     date_start: '2018-02-01'
     date_end: '2020-04-30'
-    description: 'Worked with various brands to test the effectiveness of audio branduing strategies, including Cadbury, Aldi, SONOS, and Amazon'
+    description:  'Audio testing for various brands, including Cadbury, Aldi UK, SONOS, and Amazon'
     
   - title: Doctoral Candidate
     company: 'Audio Communication Group | Technische Universität Berlin'
@@ -59,18 +59,8 @@ experience:
     location: 'Berlin, Germany'
     date_start: '2017-09-01'
     date_end: '2020-06-30'
-    description: 'Appliedn insights from behavioral economics to study music behaviour and empirical aesthetics'
-
-  - title: MSc in Music, Mind & Brain
-    company: 'Department of Psychology, Goldsmiths, University of London'
-    company_url: 'https://www.gold.ac.uk/'
-    company_logo: 'golds_logo'
-    location: 'London, UK'
-    date_start: '2017-09-01'
-    date_end: '2020-06-30'
-    description: 'Focus on both the biological and cognitive aspects of musical behaviour'
-
+    description: 'Applied insights from behavioral economics to study music behaviour and empirical aesthetics'
 
 design:
-  columns: '1'
+  columns: '2'
 ---
