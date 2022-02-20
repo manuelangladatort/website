@@ -29,10 +29,6 @@ experience:
     location: 'Frankfurt am Main, Germany'
     date_start: '2020-04-01'
     date_end: ''
-    description: >-
-        * Researching auditory perception and empirical aesthetics
-        * Developing new psychological paradigms and methods
-        * Developing new testing sfotware for online behavioral experiments
     
   - title: Lecturer in Psychology
     company: 'Humboldt-Universität zu Berlin' 
@@ -41,7 +37,6 @@ experience:
     location: 'Berlin, Germany'
     date_start: '2019-10-01'
     date_end: '2020-03-31'
-    description: 'Taught research methods and statistics (BA and master levels)'
 
   - title: Research and Science Consultant
     company: 'soundOUT - Sonic Testing for Sound Branding'
@@ -50,7 +45,6 @@ experience:
     location: 'London, UK'
     date_start: '2018-02-01'
     date_end: '2020-04-30'
-    description:  'Audio testing for various brands, including Cadbury, Aldi UK, SONOS, and Amazon'
     
   - title: Doctoral Candidate
     company: 'Audio Communication Group | Technische Universität Berlin'
@@ -59,7 +53,6 @@ experience:
     location: 'Berlin, Germany'
     date_start: '2017-09-01'
     date_end: '2020-06-30'
-    description: 'Applied insights from behavioral economics to study music behaviour and empirical aesthetics'
 
 design:
   columns: '2'
