@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv-square
   icon_pack: ai
-  link: uploads/Anglada-Tort_CV_March2022.pdf
+  link: uploads/CV_Academia_March2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
