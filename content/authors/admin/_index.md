@@ -18,11 +18,10 @@ bio: I am a Postdoctoral Researcher in the [Computational Auditory Perception Gr
 
 # Interests to show in About widget
 interests:
-- Empirical Aesthetics
+- Auditory Perception and Cognition
 - Cultural Evolution
-- Music Cognition and Behaviour
-- Massive Online Experiments
-- Sonic testing and audiobranding
+- Empirical Aesthetics
+- Sonic Testing and Audiobranding
 
 # Education to show in About widget
 education:
@@ -63,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv-square
   icon_pack: ai
-  link: uploads/Anglada-Tort_CV_Jan2022.pdf
+  link: uploads/Anglada-Tort_CV_March2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
