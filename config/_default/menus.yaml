@@ -23,7 +23,7 @@ main:
   #   url: /#audiobranding
   #   weight: 50
   - name: CV
-    url: uploads/Anglada-Tort_CV_Jan2022.pdf
+    url: uploads/manuelangladatort.pdf
     weight: 60
   
 
