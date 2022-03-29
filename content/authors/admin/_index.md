@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv-square
   icon_pack: ai
-  link: uploads/manuelangladatot_cv.pdf
+  link: uploads/manuelangladatort_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
