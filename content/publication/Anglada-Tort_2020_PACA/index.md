@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [empirical aesthetics]
+projects: [auditory-perception, empirical-aesthetics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -16,7 +16,6 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/s/photos/singing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  Unsplash</a>
   focal_point: ""
   preview_only: false
 
