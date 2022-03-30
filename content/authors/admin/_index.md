@@ -18,9 +18,9 @@ bio: I am a Postdoctoral Researcher in the [Computational Auditory Perception Gr
 
 # Interests to show in About widget
 interests:
-- Auditory Perception and Cognition
 - Cultural Evolution
-- Empirical Aesthetics
+- Large-Scale Online Experiments
+- Music Perception and Cognition
 - Sonic Testing and Audiobranding
 
 # Education to show in About widget

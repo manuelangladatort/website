@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Massive Online Experiments"
+title: "Online Behavioral Experiments at Large Scale"
 summary: ""
 authors: []
 tags: []
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: Photo by <a href="https://unsplash.com/photos/DUmFLtMeAbQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Avel Chuklanov</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: Photo by <a href="https://unsplash.com/@chuklanov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Avel Chuklanov</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   focal_point: ""
   preview_only: false
 
@@ -41,5 +41,5 @@ slides: ""
 
 ---
 
-I develop new methods to enable **large-scale online research** in complex domains, such as high-dimensional perceptual experiments and production tasks involving recordings of participants’ own voice. I am interested in how online research can help cognitive science move beyond traditional psychology experiments that over-rely on Western participants by increasing the **reach, scalability, and diversity** of human behavioral experiments.
+I am interested in how online research can help cognitive science move beyond traditional psychology experiments that over-rely on Western participants by increasing the **reach, scalability, and diversity** of human behavioral experiments. I develop new methods to enable **large-scale online research** in complex domains, such as high-dimensional perceptual experiments and production tasks involving recordings of participants’ own voices.
 
