@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Music Perception and Cognition"
-summary: 
+title: "Empirical Aesthetics"
+summary: ""
 authors: []
 tags: []
 categories: []
-date: 2022-03-267T12:25:41+01:00
+date: 2022-03-267T12:24:41+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: Photo by <a href="https://unsplash.com/@jasonrosewell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Rosewell</a> on <a href="https://unsplash.com/s/photos/music-perception?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/s/photos/singing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Unsplash</a>
   focal_point: ""
   preview_only: false
 
@@ -38,6 +39,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
-I am interested on both the biological and cognitive aspects of **musical behavior**. What makes a good melody? Why does music move us? How do experience shape auditory perception? Why do people listen to (and pay for) the music they do? 
+I am interested on both the biological and cognitive foundations of **sensory valuation** and **aesthetic experiences**, in particular of complex and abstract objects such as music and art. How do we experience beauty? Why does music move us? What makes a good melody? What are the main forces underlying popularity dynamics and fashion?
+
