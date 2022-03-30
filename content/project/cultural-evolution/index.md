@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: Photo by <a href="https://unsplash.com/photos/G9p6QyCQfCc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"> Aarón Blanco Tejedor </a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption:
   focal_point: ""
   preview_only: false
 
