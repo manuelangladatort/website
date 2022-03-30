@@ -2,13 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Music Perception and Cognition"
-summary: "I am interested on both the biological and cognitive aspects of **musical behavior**. 
-What makes a good melody? Why does music move us? How do experience shape auditory perception? 
-Why do people listen to (and pay for) the music they do?"
+summary: 
 authors: []
 tags: []
 categories: []
-date:
+date: 2022-03-28T09:36:41+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
