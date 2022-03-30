@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-I study how people from different backgrounds experience the auditory world and the impact of their **mental representations** on human cognition and behavior. I develop new methods to enable **large-scale online experiments** in complex domains, including high-dimensional perceptual paradigms, experiments where humans interact with machine-learning algorithms, and high-precision production tasks, such as measuring participants’ sensorimotor synchronization through the web browser.
+I study how people from different backgrounds experience the auditory world and the impact of their **mental representations** on human cognition and behavior. I develop new methods to enable **large-scale online experiments** in the auditory domain, such as high-dimensional perceptual paradigms and high-precision tasks where participants are recorded through the web browser.
 
-I am also interested in how online research can help cognitive science move beyond traditional psychology experiments that over-rely on Western participants by increasing the **reach, scalability, and diversity** of human behavioral experiments
+I believe online research can help cognitive science move beyond traditional psychology experiments that over-rely on Western participants by increasing the **reach, scalability, and diversity** of human behavioral experiments

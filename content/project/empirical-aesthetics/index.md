@@ -38,7 +38,6 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-
 ---
 
 I am interested on both the biological and cognitive foundations of **sensory valuation** and **aesthetic experiences**, in particular of complex and abstract objects such as music and art. How do we experience beauty? Why does music move us? What makes a good melody? What are the main forces underlying popularity dynamics and fashion?
