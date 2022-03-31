@@ -42,5 +42,5 @@ slides: ""
 
 I use **iterated learning experiments** to simulate cultural evolution in the lab using complex production modalities such, as tapping and singing. I am interested in how transmission biases shape the emergence of cultural artifacts and how differences in the distribution of cultural traits may depend on selection processes and underlying network structures.
 
-I also use **big data** to measure real world patterns of cultural consumption and globalization. For example, to study the impact of globalization on the evolution of cultures around the world.
+I also use **big data** to measure real world patterns of large-scale **cultural consumption** and **globalization**. For example, to study the impact of globalization on the evolution of cultures around the world.
 
