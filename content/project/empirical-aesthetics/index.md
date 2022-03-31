@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-I am interested on both the biological and cognitive foundations of **sensory valuation** and **aesthetic experience**, in particular of complex and abstract stimuli such as music and art. For example, how do we experience beauty? Why does music move us? What makes a good melody or piece of art? What are the main principles underlying popularity dynamics and fashion? 
+How do we experience beauty? Why does music move us? What are the main principles underlying popularity and fashion? I am interested on both the biological and cognitive foundations of **sensory valuation** and **aesthetic experience**, in particular of complex and abstract stimuli such as music and art.
 
 
