@@ -3,7 +3,7 @@
 
 title: "Visualizing Music Psychology: A bibliometric analysis of the literature from 1973 to 2017"
 authors: [Manuel Anglada-Tort and Katie Rose M. Sanfilippo]
-date: "2019-04-07T00:00:00Z"
+date: "2019-03-07T00:00:00Z"
 doi: "https://doi.org/10.1177/2059204318811786"
 
 # Schedule page publish date (NOT publication's date).
