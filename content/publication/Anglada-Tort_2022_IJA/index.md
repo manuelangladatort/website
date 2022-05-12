@@ -3,11 +3,11 @@
 
 title: "I’ve heard that brand before: the role of music recognition on consumer choice"
 authors: [Manuel Anglada-Tort, Kerry Schofield, Tabi Trahan, and Daniel Müllensiefen]
-date: "2022-04-10T00:00:00Z"
+date: "2022-01-10T00:00:00Z"
 doi: "https://doi.org/10.1080/02650487.2022.2060568"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-04-22T14:18:51+01:00
+publishDate: 2022-01-22T14:18:51+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
