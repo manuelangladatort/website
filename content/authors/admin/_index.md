@@ -6,15 +6,16 @@ title: Manuel Anglada Tort
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Researcher
+role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Max Planck Institute for Empirical Aesthetics
-  url: 'https://www.aesthetics.mpg.de/'
+- name: University of Oxford
+  url: 'https://music.web.ox.ac.uk/people/manuel-anglada-tort'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in how people experience the auditory world and the impact of their mental representations on human behaviour and culture. To explore this, my research combines methods from different disciplines with massive online experiments, including high-resolution perceptual paradigms, cultural transmission experiments in rhythm and singing modalities, cross-cultural research, and network science.
+bio: I am a Departmental Lecturer in the Faculty of Music and lead the Research Group [Music, Culture, and Cognition (MCC)](https://music.web.ox.ac.uk/music-culture-and-cognition) at the [University of Oxford](https://www.ox.ac.uk/). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of music behaviour and aesthetics, and the role they play in human societies and cultural evolution. My research covers a variety of topics, including music perception, biological and cognitive foundations of musical behaviour, production and consumption of creative work, popularity dynamics, collective cognition, network science, and cultural evolution.
+
 
 # Interests to show in About widget
 interests:
@@ -43,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:manuel.anglada-tort@ae.mpg.de" # '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:manuel.anglada-tort@music.ox.ac.uk" # '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AngladaTort
@@ -71,5 +72,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at 
-[Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in how people experience the auditory world and the impact of their mental representations on human behaviour and culture. To explore this, my research combines methods from different disciplines with massive online experiments, including high-resolution perceptual paradigms, cultural transmission chains in rhythm and singing modalities, cross-cultural research, and network science.
+I am a Departmental Lecturer in the Faculty of Music and lead the Research Group [Music, Culture, and Cognition (MCC)](https://music.web.ox.ac.uk/music-culture-and-cognition) at the [University of Oxford](https://www.ox.ac.uk/). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of music behaviour and aesthetics, and the role they play in human societies and cultural evolution. My research covers a variety of topics, including music perception, biological and cognitive foundations of musical behaviour, production and consumption of creative work, popularity dynamics, collective cognition, network science, and cultural evolution.

@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lecturer
+    company: 'University of Oxford'
+    company_url: 'https://www.ox.ac.uk/'
+    company_logo: 'oxford_logo'
+    location: 'Oxford, United Kingdom'
+    date_start: '2023-01-01'
+    date_end: ''
+
   - title: Postdoctoral Researcher
     company: 'Max Planck Institute for Empirical Aesthetics'
     company_url: 'https://www.aesthetics.mpg.de/'
