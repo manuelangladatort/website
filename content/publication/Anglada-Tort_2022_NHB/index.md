@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Nature Human Behaviour_"
-publication_short: "We perform the first large-scale GWAS on beat synchronization"
+publication_short: ""
 
 abstract: >
   Moving in synchrony to the beat is a fundamental component of musicality. Here we conducted a genome-wide association study to identify common genetic variants associated with beat synchronization in 606,825 individuals. Beat synchronization exhibited a highly polygenic architecture, with 69 loci reaching genome-wide significance (P < 5 × 10−8) and single-nucleotide-polymorphism-based heritability (on the liability scale) of 13%–16%. Heritability was enriched for genes expressed in brain tissues and for fetal and adult brain-specific gene regulatory elements, underscoring the role of central-nervous-system-expressed genes linked to the genetic basis of the trait. We performed validations of the self-report phenotype (through separate experiments) and of the genome-wide association study (polygenic scores for beat synchronization were associated with patients algorithmically classified as musicians in medical records of a separate biobank). Genetic correlations with breathing function, motor function, processing speed and chronotype suggest shared genetic architecture with beat synchronization and provide avenues for new phenotypic and genetic explorations.
@@ -25,7 +25,7 @@ abstract: >
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We perform and validate the first large-scale GWAS on beat synchronization"
 
 tags:
 categories: 
