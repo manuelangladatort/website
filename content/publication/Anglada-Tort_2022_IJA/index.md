@@ -38,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://doi.org/10.1080/02650487.2022.2060568
 url_code:
 url_dataset:
 url_poster:

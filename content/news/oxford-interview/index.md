@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New research shows how cultural transmission shapes the evolution of music"
+title: "Music, Culture, and Cognition (MCC) Lab: a new research group at the University of Oxford"
 summary: 
 authors: []
 tags: []
@@ -22,13 +22,14 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
+- name: link
+   url: https://www.ox.ac.uk/news/features/music-and-mind-profile-dr-manuel-anglada-tort
+   
 #   icon_pack: fab
 #   icon: twitter
 
 url_code: ""
-url_pdf: https://www.ox.ac.uk/news/2023-03-22-new-research-shows-how-cultural-transmission-shapes-evolution-music
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

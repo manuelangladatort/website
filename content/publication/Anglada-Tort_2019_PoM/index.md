@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://doi.org/10.1177/0305735619871602
 url_code: https://github.com/manuelangladatort/popmusic-lyrics
 url_dataset: 
 url_poster:
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [auditory-perception, empirical-aesthetics]
+projects: [empirical-aesthetics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

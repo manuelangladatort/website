@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://doi.org/10.2501/JAR-2020-016
 url_code:
 url_dataset:
 url_poster:
