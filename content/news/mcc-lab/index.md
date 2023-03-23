@@ -6,9 +6,8 @@ summary:
 authors: []
 tags: []
 categories: []
-date: 2023-01-127T12:22:41+01:00
-
-publishDate: 2023-01-127T12:22:41+01:00
+date: 
+lastmod: "2023-01-12T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
