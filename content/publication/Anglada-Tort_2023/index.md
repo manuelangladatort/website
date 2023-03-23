@@ -38,9 +38,9 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.17605/OSF.IO/UANGD.
-url_code: 
-url_dataset: 
+url_pdf: https://authors.elsevier.com/sd/article/S0960-9822(23)00243-9
+url_code: https://doi.org/10.17605/OSF.IO/UANGD
+url_dataset: https://doi.org/10.17605/OSF.IO/UANGD
 url_poster:
 url_project:
 url_slides:
