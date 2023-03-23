@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Studying the effect of oral transmission on melodic structure using online iterated singing experiments"
-authors: [Manuel Anglada-Tort, Peter M.C. Harrison, Nori Jacoby]
-date: "2022-05-12T00:00:00Z"
-doi: "https://doi.org/10.1101/2022.05.10.491366 "
+title: "Genome-wide association study of musical beat synchronization demonstrates high polygenicity"
+authors: [Maria Niarchou, Daniel E. Gustavson, J. Fah Sathirapongsasuti, Manuel Anglada Tort, ..., Reyna L. Gordon]
+date: "2022-04-21T00:00:00Z"
+doi: "https://doi.org/10.1038/s41562-022-01359-x "
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-02-11T14:18:51+01:00
@@ -13,19 +13,19 @@ publishDate: 2022-02-11T14:18:51+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_bioRxiv_"
+publication: "Nature Human Behaviour"
 publication_short: ""
 
 abstract: >
-  Since generations, singing and speech have been mainly transmitted orally. How does oral transmission shape the evolution of music? Here, we developed a method for conducting online transmission experiments, in which sung melodies are passed from one singer to the next. We show that cognitive and motor constraints play a profound role in the emergence of melodic structure. Specifically, initially random tones develop into more structured systems that increasingly reuse and combine fewer elements, making melodies easier to learn and transmit over time. We discuss how our findings are compatible with melodic universals found in most human cultures and culturally specific characteristics of participants' previous musical exposure. Overall, our method efficiently automates online singing experiments while enabling large-scale data collection using standard computers available to everyone. We see great potential in further extending this work to increase the efficiency, scalability, and diversity of research on cultural evolution and cognitive science.
+  Moving in synchrony to the beat is a fundamental component of musicality. Here we conducted a genome-wide association study to identify common genetic variants associated with beat synchronization in 606,825 individuals. Beat synchronization exhibited a highly polygenic architecture, with 69 loci reaching genome-wide significance (P < 5 × 10−8) and single-nucleotide-polymorphism-based heritability (on the liability scale) of 13%–16%. Heritability was enriched for genes expressed in brain tissues and for fetal and adult brain-specific gene regulatory elements, underscoring the role of central-nervous-system-expressed genes linked to the genetic basis of the trait. We performed validations of the self-report phenotype (through separate experiments) and of the genome-wide association study (polygenic scores for beat synchronization were associated with patients algorithmically classified as musicians in medical records of a separate biobank). Genetic correlations with breathing function, motor function, processing speed and chronotype suggest shared genetic architecture with beat synchronization and provide avenues for new phenotypic and genetic explorations.
 
 
 
 # Summary. An optional shortened abstract.
-summary: "We study how oral transmission shapes the evolution of melodies passed from one singer to the next."
+summary:
 
 tags:
 categories: 
@@ -39,7 +39,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.biorxiv.org/content/10.1101/2022.05.10.491366v1.
+url_pdf: https://rdcu.be/c8jER
 url_code: 
 url_dataset: 
 url_poster:
