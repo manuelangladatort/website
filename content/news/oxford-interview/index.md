@@ -24,7 +24,7 @@ image:
 links: 
 - name: 
    url: https://www.ox.ac.uk/news/2023-03-22-new-research-shows-how-cultural-transmission-shapes-evolution-music
-   icon_pack: fab
+   icon_pack:
    icon: 
 
 url_code: ""
