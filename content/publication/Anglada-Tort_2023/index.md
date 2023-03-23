@@ -16,7 +16,7 @@ publishDate: 2023-22-11T14:18:51+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Current Biology"
+publication: "_Current Biology_"
 publication_short: ""
 
 abstract: >
@@ -24,7 +24,7 @@ abstract: >
 
 
 # Summary. An optional shortened abstract.
-summary: "We use online singing experiments to study oral transmission mechanisms in US and Indian participants. The results show how individual participant biases—vocal, cognitive, and cultural—shape the evolution of musical structures but that social biases are crucial for determining differences and similarities in resulting structures."
+summary: "Current Biology"
 
 tags:
 categories: 

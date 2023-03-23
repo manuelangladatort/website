@@ -4,7 +4,7 @@
 title: "Studying the effect of oral transmission on melodic structure using online iterated singing experiments"
 authors: [Manuel Anglada-Tort, Peter M.C. Harrison, Nori Jacoby]
 date: "2022-05-12T00:00:00Z"
-doi: "https://doi.org/10.1101/2022.05.10.491366 "
+doi: "https://escholarship.org/uc/item/3567q2vf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-02-11T14:18:51+01:00
@@ -13,10 +13,10 @@ publishDate: 2022-02-11T14:18:51+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_bioRxiv_"
+publication: "_Proceedings of the Annual Meeting of the Cognitive Science Society, 44 (44)._"
 publication_short: ""
 
 abstract: >
@@ -25,7 +25,7 @@ abstract: >
 
 
 # Summary. An optional shortened abstract.
-summary: "We study how oral transmission shapes the evolution of melodies passed from one singer to the next."
+summary: "Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci), 44 (44)."
 
 tags:
 categories: 
@@ -39,7 +39,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.biorxiv.org/content/10.1101/2022.05.10.491366v1.
+url_pdf: https://escholarship.org/uc/item/3567q2vf
 url_code: 
 url_dataset: 
 url_poster:

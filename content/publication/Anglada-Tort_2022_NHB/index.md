@@ -25,7 +25,7 @@ abstract: >
 
 
 # Summary. An optional shortened abstract.
-summary: "We perform and validate the first large-scale GWAS on beat synchronization"
+summary: "Nature Human Behaviour"
 
 tags:
 categories: 

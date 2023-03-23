@@ -24,7 +24,7 @@ abstract: >
 
 
 # Summary. An optional shortened abstract.
-summary: "We examine the effect of music recognition to influence consumers when searching for and buyding new products."
+summary: "International Journal of Advertising"
 
 tags:
 categories: 
