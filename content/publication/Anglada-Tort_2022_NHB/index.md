@@ -4,7 +4,7 @@
 title: "Genome-wide association study of musical beat synchronization demonstrates high polygenicity"
 authors: [Maria Niarchou, Daniel E. Gustavson, J. Fah Sathirapongsasuti, Manuel Anglada Tort, ..., Reyna L. Gordon]
 date: "2022-04-21T00:00:00Z"
-doi: "https://doi.org/10.1038/s41562-022-01359-x "
+doi: "https://doi.org/10.1038/s41562-022-01359-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-02-11T14:18:51+01:00
@@ -16,7 +16,7 @@ publishDate: 2022-02-11T14:18:51+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Human Behaviour"
+publication: "_Nature Human Behaviour_"
 publication_short: ""
 
 abstract: >
@@ -25,11 +25,11 @@ abstract: >
 
 
 # Summary. An optional shortened abstract.
-summary:
+summary: ""
 
 tags:
 categories: 
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -61,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [cultural-evolution]
+projects: [auditory-perception]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
