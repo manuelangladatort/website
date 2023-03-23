@@ -9,8 +9,8 @@ active: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'title news1'
-subtitle: 'these are subtitles'
+title: 'News'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, event, publication...
