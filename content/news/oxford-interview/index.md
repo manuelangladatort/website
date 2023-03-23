@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Music, Culture, and Cognition (MCC) Lab: a new research group at the University of Oxford"
+title: "Music, Culture, and Cognition (MCC) Lab: a new research group at the University of Oxford (https://www.ox.ac.uk/news/features/music-and-mind-profile-dr-manuel-anglada-tort)"
 summary: 
 authors: []
 tags: []
@@ -21,12 +21,6 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-- name: link
-   url: https://www.ox.ac.uk/news/features/music-and-mind-profile-dr-manuel-anglada-tort
-   
-#   icon_pack: fab
-#   icon: twitter
 
 url_code: ""
 url_pdf: ""

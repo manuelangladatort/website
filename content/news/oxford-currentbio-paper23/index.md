@@ -21,12 +21,6 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
- - name: Link
-   url: https://www.ox.ac.uk/news/2023-03-22-new-research-shows-how-cultural-transmission-shapes-evolution-music
-
-#   icon_pack: fab
-#   icon: twitter
 
 url_code: ""
 url_pdf: ""
