@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New research shows how cultural transmission shapes the evolution of music [here](https://www.ox.ac.uk/news/2023-03-22-new-research-shows-how-cultural-transmission-shapes-evolution-music)"
+title: "New research shows how cultural transmission shapes the evolution of music"
 summary: 
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2023-03-227T12:22:41+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "(https://www.ox.ac.uk/news/2023-03-22-new-research-shows-how-cultural-transmission-shapes-evolution-music"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

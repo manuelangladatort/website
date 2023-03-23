@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Music, Culture, and Cognition (MCC) Lab: a new research group at the University of Oxford (https://www.ox.ac.uk/news/features/music-and-mind-profile-dr-manuel-anglada-tort)"
+title: "Music, Culture, and Cognition (MCC) Lab: a new research group at the University of Oxford"
 summary: 
 authors: []
 tags: []
 categories: []
-date: 2023-03-227T12:22:41+01:00
+date: 2023-01-127T12:22:41+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.ox.ac.uk/news/features/music-and-mind-profile-dr-manuel-anglada-tort)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
