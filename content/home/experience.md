@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.ox.ac.uk/'
     company_logo: 'golds_logo'
     location: 'London, United Kingdom'
-    date_start: '2023-27-09'
+    date_start: '2023-09-27'
     date_end: ''
     
   - title: Departmental Lecturer
