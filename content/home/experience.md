@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lecturer in Psychology
+    company: 'Goldsmiths, Univeristy of London'
+    company_url: 'https://www.ox.ac.uk/'
+    company_logo: 'golds_logo'
+    location: 'London, United Kingdom'
+    date_start: '2023-27-09'
+    date_end: ''
   - title: Departmental Lecturer
     company: 'University of Oxford'
     company_url: 'https://www.ox.ac.uk/'
@@ -45,14 +52,6 @@ experience:
     location: 'Berlin, Germany'
     date_start: '2019-10-01'
     date_end: '2020-03-31'
-
-  - title: Research and Science Consultant
-    company: 'soundOUT - Sonic Testing for Sound Branding'
-    company_url: 'https://www.soundout.com/'
-    company_logo: 'soundout_logo'
-    location: 'London, UK'
-    date_start: '2018-02-01'
-    date_end: '2020-04-30'
     
   - title: Doctoral Candidate
     company: 'Audio Communication Group | Technische Universität Berlin'

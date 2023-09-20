@@ -10,19 +10,17 @@ role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Oxford
-  url: 'https://music.web.ox.ac.uk/people/manuel-anglada-tort'
+- name: Goldsmiths, Univeristy of London
+  url: 'https://www.gold.ac.uk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Departmental Lecturer at the [University of Oxford](https://www.ox.ac.uk/) and lead the Research Group [Music, Culture, and Cognition (MCC)](https://music.web.ox.ac.uk/music-culture-and-cognition). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. To explore this, my research combines computational methods, large-scale online data collection techniques, and innovative psychological paradimgs. 
-
+bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. 
 
 # Interests to show in About widget
 interests:
-- Auditory Perception and Cognition
-- Data Science
 - Cultural Evolution
 - Empirical Aesthetics
+- Auditory Perception and Cognition
 - Sonic Testing and Audiobranding
 
 # Education to show in About widget
@@ -73,4 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Departmental Lecturer at the [University of Oxford](https://www.ox.ac.uk/) and lead the Research Group [Music, Culture, and Cognition (MCC)](https://music.web.ox.ac.uk/music-culture-and-cognition). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. To explore this, my research combines computational methods, large-scale online data collection techniques, and innovative psychological paradimgs. 
+I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. 
