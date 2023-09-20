@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:manuel.anglada-tort@music.ox.ac.uk" # '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:m.angladatort@gold.ac.uk" # '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AngladaTort
@@ -71,4 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. 
+I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution.
