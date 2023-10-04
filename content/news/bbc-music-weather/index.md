@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "BBC Have your say: Does the weather influence the music you listen to?"
+title: "Have your say: Does the weather influence the music you listen to?"
 summary: 
 authors: []
 tags: []
