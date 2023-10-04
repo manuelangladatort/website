@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New paper 'REPP: A robust cross-platform solution for online sensorimotor synchronization experiments'"
+title: "A new technology to run high-precision sensorimotor synchronization studies online"
 summary: 
 authors: []
 tags: []

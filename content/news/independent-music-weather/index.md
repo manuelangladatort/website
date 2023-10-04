@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Here comes the sun: How does weather influence music success in the markets?"
+title: "Here comes the sun: How does weather influence music success?"
 summary: 
 authors: []
 tags: []

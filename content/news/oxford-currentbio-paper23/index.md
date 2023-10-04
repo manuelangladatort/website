@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New research shows how cultural transmission shapes the evolution of music"
+title: "New research shows how cultural transmission shapes music evolution"
 summary: 
 authors: []
 tags: []
