@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Music, Culture, and Cognition (MCC) Lab: a new research group at the University of Oxford"
+title: "Music, Culture, and Cognition Lab: a new research group at the University of Oxford"
 summary: 
 authors: []
 tags: []

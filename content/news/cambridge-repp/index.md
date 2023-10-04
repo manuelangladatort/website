@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A new technology to run high-precision sensorimotor synchronization studies online"
+title: "A new technology to run high-precision synchronization studies online"
 summary: 
 authors: []
 tags: []
