@@ -46,14 +46,6 @@ experience:
     date_start: '2020-04-01'
     date_end: ''
     
-  - title: Lecturer in Psychology
-    company: 'Humboldt-Universität zu Berlin' 
-    company_url: 'https://www.hu-berlin.de/'
-    company_logo: 'hu_logo'
-    location: 'Berlin, Germany'
-    date_start: '2019-10-01'
-    date_end: '2020-03-31'
-    
   - title: Doctoral Candidate
     company: 'Audio Communication Group | Technische Universität Berlin'
     company_url: 'https://www.tu.berlin/'

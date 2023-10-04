@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Music, Culture, and Cognition (MCC) Lab: a new research group at the University of Oxford"
+title: "Here comes the sun: How does weather influence music success in the markets?"
 summary: 
 authors: []
 tags: []
 categories: []
-date: "2023-01-12T00:00:00Z"
-lastmod: "2023-01-12T00:00:00Z"
+date: "2023-05-12T00:00:00Z"
+lastmod: "2023-05-12T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://music.web.ox.ac.uk/music-culture-and-cognition
+external_link: https://www.independent.co.uk/news/science/met-office-university-of-oxford-sean-paul-b2331283.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
