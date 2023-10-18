@@ -71,4 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/). I am also a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/). I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution.
+I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/), and a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at the Max Planck Institute for Empirical Aesthetics. I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. 
