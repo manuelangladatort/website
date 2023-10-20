@@ -40,5 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-I use **iterated learning experiments** to simulate cultural evolution in the lab using complex production modalities such, as tapping and singing. I am interested in how transmission biases shape the emergence of cultural artifacts and how differences in the distribution of cultural traits may depend on selection processes and underlying network structures. I also use **big data** to measure real world patterns of **cultural consumption** and **diffusion**. For example, to study the impact of globalization on the evolution of cultures around the world.
-
+Cultural traditions, such as language and music, arise from complex cultural processes of human interaction and the transmission of knowledge. My work examines such processes by combining computational methods with cultural transmission experiments in complex production modalities, such as music and art. For example, I study how music changes over time as it is orally transmitted across participants, and how such dynamics are shaped by selection processes and underlying network structures.

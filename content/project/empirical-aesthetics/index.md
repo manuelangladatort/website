@@ -40,6 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-How do we experience beauty? Why does music move us? What are the main principles underlying popularity and fashion? I am interested on both the biological and cognitive foundations of **sensory valuation** and **aesthetic experience**, in particular of complex and abstract stimuli such as music and art.
+I am interested in both the biological and cognitive foundations of sensory evaluation and aesthetic experience, and how they contribute to the collective dynamics of popularity and opinion formation in art. I study these processes experimentally in the lab, measuring aesthetic preferences in controlled settings, and in the real-world, using big data approaches from available datasets, such as Spotify and YouTube.
+
 
 

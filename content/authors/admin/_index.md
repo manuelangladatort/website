@@ -11,7 +11,7 @@ role: Lecturer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Goldsmiths, Univeristy of London
-  url: 'https://www.gold.ac.uk/'
+  url: 'https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/), and a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at the Max Planck Institute for Empirical Aesthetics. I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. 
@@ -19,9 +19,10 @@ bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https:/
 # Interests to show in About widget
 interests:
 - Cultural Evolution
+- Music Cognition
 - Empirical Aesthetics
-- Auditory Perception and Cognition
-- Sonic Testing and Audiobranding
+- Collective Creativity
+- Computational Social Science
 
 # Education to show in About widget
 education:
