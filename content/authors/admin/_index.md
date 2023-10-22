@@ -10,11 +10,11 @@ role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Goldsmiths, Univeristy of London
+- name: Goldsmiths, University of London
   url: 'https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/), and a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at the Max Planck Institute for Empirical Aesthetics. I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. My research combines computational methods with innovative behavioral experiments to study how such behaviours emerge through the interplay of human cognition, social interactions, and cultural transmission.
+bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/), and a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at the Max Planck Institute for Empirical Aesthetics. I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. My research combines computational methods with behavioral experiments to study how such behaviours emerge through the interplay of human cognition, social interaction, and cultural transmission.
 
 # Interests to show in About widget
 interests:
@@ -30,7 +30,7 @@ education:
   - course: PhD in Psychology
     institution: Technische Universität Berlin, Germany
     year: 2020
-  - course: MSc in Muisc, Mind, and Brain
+  - course: MSc in Music, Mind, and Brain
     institution: Goldsmiths, University of London, UK
     year: 2015
   - course: BA in Psychology
