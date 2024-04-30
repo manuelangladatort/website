@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Music and the mind: a profile of Dr Manuel Anglada Tort"
+title: "Oxford News: Music and the mind, a profile of Dr Manuel Anglada Tort"
 summary: 
 authors: []
 tags: []
