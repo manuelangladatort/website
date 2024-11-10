@@ -6,7 +6,7 @@ title: Manuel Anglada Tort
 superuser: true
 
 # Role/position/tagline
-role: Lecturer
+role: Lecturer in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: 'https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/), and a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at the Max Planck Institute for Empirical Aesthetics. I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. My research combines computational methods with innovative psychological experiments to study how such behaviours emerge through the interplay of human cognition, social interaction, and cultural transmission.
+bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/) and co-leader of the [Music, Mind, and Brain Group](https://www.musicmindbrain.com/). My research uses computational methods and innovative behavioural experiments to study the psychological and cultural foundations of complex social behaviours, such as music and aesthetics, and their impact on society and culture.
 
 # Interests to show in About widget
 interests:
 - Cultural Evolution
 - Music Cognition
-- Empirical Aesthetics
+- Aesthetic Science
 - Collective Creativity
 - Computational Social Science
 
@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:m.angladatort@gold.ac.uk" # '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/AngladaTort
+  link: https://www.linkedin.com/in/manuel-anglada-tort-58871826b/
 - icon: github
   icon_pack: fab
   link: https://github.com/manuelangladatort
@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/), and a visiting researcher in the [Computational Auditory Perception Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at the Max Planck Institute for Empirical Aesthetics. I am interested in understanding the psychological and cultural foundations of complex social behaviour such as music and aesthetics, and the role they play in human societies and cultural evolution. 
+I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/) and co-leader of the [Music, Mind, and Brain Group](https://www.musicmindbrain.com/). My research uses computational methods and innovative behavioural experiments to study the psychological and cultural foundations of complex social behaviours, such as music and aesthetics, and their impact on society and culture.
 
-My research combines computational methods with innovative psychological experiments to study how such behaviours emerge through the interplay of human cognition, social interaction, and cultural transmission. For example, see my work on [how cultural transmission shapes the evolution of human song](https://www.sciencedirect.com/science/article/pii/S0960982223002439), read a recent study about [the influence of weather conditions on UK music success](https://royalsocietypublishing.org/doi/10.1098/rsos.221443), or check out [REPP](https://link.springer.com/article/10.3758/s13428-021-01722-2), a Python package to run high-precision synchronisation studies over the internet, such as  tapping to the beat of music.
+See my work on [how cultural transmission shapes the evolution of human song](https://www.sciencedirect.com/science/article/pii/S0960982223002439), read about [the influence of weather conditions on UK music success](https://royalsocietypublishing.org/doi/10.1098/rsos.221443), or check out [REPP](https://link.springer.com/article/10.3758/s13428-021-01722-2), a Python package to run high-precision synchronisation studies over the internet, such as  tapping to the beat of music.
