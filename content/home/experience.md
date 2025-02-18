@@ -36,7 +36,7 @@ experience:
     company_logo: 'oxford_logo'
     location: 'Oxford, United Kingdom'
     date_start: '2023-01-01'
-    date_end: ''
+    date_end: '2023-12-30'
 
   - title: Postdoctoral Researcher
     company: 'Max Planck Institute for Empirical Aesthetics'
@@ -44,7 +44,7 @@ experience:
     company_logo: 'mpi_logo'
     location: 'Frankfurt am Main, Germany'
     date_start: '2020-04-01'
-    date_end: ''
+    date_end: '2022-12-30'
     
   - title: Doctoral Candidate
     company: 'Audio Communication Group | Technische Universität Berlin'
