@@ -36,7 +36,7 @@ experience:
     company_logo: 'oxford_logo'
     location: 'Oxford, United Kingdom'
     date_start: '2023-01-01'
-    date_end: '2023-12-30'
+    date_end: '2023-08-30'
 
   - title: Postdoctoral Researcher
     company: 'Max Planck Institute for Empirical Aesthetics'
