@@ -14,15 +14,15 @@ organizations:
   url: 'https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/) and Co-Director of [Music, Mind, and Brain](https://www.musicmindbrain.com/). My research uses computational methods and innovative behavioural experiments to study the psychological and cultural foundations of complex social behaviours, such as music and aesthetics, and their impact on society and culture.
+bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/) and co-director of [Music, Mind, and Brain](https://www.musicmindbrain.com/). My research uses computational methods and innovative behavioural experiments to study how psychology and culture shape the ways people create and experience music, aesthetics, and the arts.
 
 # Interests to show in About widget
 interests:
-- Cultural Evolution
-- Music Cognition
+- Music Perception and Cognition
 - Aesthetic Science
-- Collective Creativity
-- Computational Social Science
+- Cultural Evolution
+- Creativity
+- Big Data
 
 # Education to show in About widget
 education:
