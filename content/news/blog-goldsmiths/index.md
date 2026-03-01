@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Whitehead Lecture: Bridging between micro and macro-level cultural dynamics of music"
+title: "New Frontiers in Music, Mind & Brain at Goldsmiths"
 summary: 
 authors: []
 tags: []
 categories: []
-date: "2024-13-12T00:00:00Z"
-lastmod: "2024-13-12T00:00:00Z"
+date: "2026-01-12T00:00:00Z"
+lastmod: "2026-01-12T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.gold.ac.uk/calendar/?id=14884
+external_link: https://sites.gold.ac.uk/mind-body-society-blog/why-music-science-matters/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -14,16 +14,16 @@ organizations:
   url: 'https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/) and Co-Director of the [MSc in Music, Mind, and Brain (MMB)](https://www.gold.ac.uk/pg/msc-music-mind-brain/) and [MMB Research Group](https://www.musicmindbrain.com/). I am interested in the psychological and cultural foundations of complex human behaviours, such as music and art, and the role they play in society and cultural evolution. My research combines methods from cross-cultural psychology, neuroscience, machine learning, computational music cognition, large-scale online experiments, and big data. 
+bio: I am a Lecturer in Psychology and Director of the [MSc in Music, Mind, and Brain (MMB)](https://www.gold.ac.uk/pg/msc-music-mind-brain/) and [MMB Research Group](https://www.musicmindbrain.com/) at [Goldsmiths, University of London](https://www.gold.ac.uk/mind-body-society/people/anglada-tort-manuel-/). I am interested in understanding the psychological and cultural foundations of complex human behaviours, such as music and art, and the role they play in society and culture. My research combines methods from cross-cultural psychology, neuroscience, machine learning, music cognition, empirical aesthetics, computational science, and big data. 
 
 
 # Interests to show in About widget
 interests:
-- Music Perception and Cognition
+- Music Cognition
 - Aesthetic Science
 - Creativity
 - Cultural Evolution 
-- Music and Technology
+- Music, Technology, and Society
 - MIR, Corpus Analysis, and Big Data
 
 # Education to show in About widget
@@ -74,6 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a Lecturer in Psychology at [Goldsmiths, University of London](https://www.gold.ac.uk/psychology/staff/anglada-tort-manuel-/) and Co-Director of the [MSc in Music, Mind, and Brain (MMB)](https://www.gold.ac.uk/pg/msc-music-mind-brain/) and [MMB Research Group](https://www.musicmindbrain.com/). I am interested in the psychological and cultural foundations of complex human behaviours, such as music and art, and the role they play in society and cultural evolution. My research combines methods from cross-cultural psychology, neuroscience, machine learning, computational music cognition, large-scale online experiments, and big data. 
+I am a Lecturer in Psychology and Director of the [MSc in Music, Mind, and Brain (MMB)](https://www.gold.ac.uk/pg/msc-music-mind-brain/) and [MMB Research Group](https://www.musicmindbrain.com/) at [Goldsmiths, University of London](https://www.gold.ac.uk/mind-body-society/people/anglada-tort-manuel-/). I am interested in understanding the psychological and cultural foundations of complex human behaviours, such as music and art, and the role they play in society and culture. My research combines methods from cross-cultural psychology, neuroscience, machine learning, music cognition, empirical aesthetics, computational science, and big data. 
 
 See my work on [how cultural transmission shapes the evolution of human song](https://www.sciencedirect.com/science/article/pii/S0960982223002439), read about [the influence of weather conditions on UK music success](https://royalsocietypublishing.org/doi/10.1098/rsos.221443), or check out [REPP](https://link.springer.com/article/10.3758/s13428-021-01722-2), a Python package to run high-precision synchronisation studies over the internet, such as  tapping to the beat of music.
