@@ -19,12 +19,13 @@ bio: I am a [Lecturer in Psychology](https://www.gold.ac.uk/mind-body-society/pe
 
 # Interests to show in About widget
 interests:
-- Aesthetic Science
 - Music Cognition
+- Aesthetic Science
 - Creativity
 - Cultural Evolution 
 - Computational Social Science
-- Music, Technology, and Society
+- Cross-Cultural Research
+- Digital Humanities
 
 
 # Education to show in About widget
@@ -77,4 +78,4 @@ highlight_name: true
 
 I am a [Lecturer in Psychology](https://www.gold.ac.uk/mind-body-society/people/anglada-tort-manuel-/) and [Director of the MSc in Music, Mind, and Brain](https://www.gold.ac.uk/pg/msc-music-mind-brain/) at Goldsmiths, University of London. I am interested in understanding the psychological and cultural foundations of complex human behaviours, such as music and art, and the role they play in society and culture. My research combines methods from cross-cultural psychology, neuroscience, machine learning, music cognition, empirical aesthetics, and computational social science. 
 
-See my work on [how cultural transmission shapes the evolution of human song](https://www.sciencedirect.com/science/article/pii/S0960982223002439), read about a recent study examining [how collective creativity emerges in human–AI social networks](https://osf.io/preprints/psyarxiv/wzh2x_v1) where people and AI bots interact to transform ideas, or learn about a [big data project analysing millions of songs from Shazam](https://osf.io/preprints/psyarxiv/7b98u_v2) to measure cultural shifts and divergent responses to global crises.
+See my work on [how cultural transmission shapes the evolution of human song](https://www.sciencedirect.com/science/article/pii/S0960982223002439), read about a recent study examining [how collective creativity emerges in human–AI social networks](https://osf.io/preprints/psyarxiv/wzh2x_v1), or learn about a [big data project analysing millions of songs from Shazam](https://osf.io/preprints/psyarxiv/7b98u_v3) to measure cultural shifts and divergent responses to global crises.
